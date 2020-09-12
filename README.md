@@ -1,2 +1,2 @@
-# yff_21
-Yahoo Fantasy Football 2021
+# yff
+Querying the Yahoo Fantasy Football API

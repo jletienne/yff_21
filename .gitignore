@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+config.yaml
+archive
+custom_python_code
+notebooks
+oauth2yahoo.json
