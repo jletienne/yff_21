@@ -1,0 +1,181 @@
+team_name,week,player_name,player_position,player_team,lineup_position,fantasy_points,player_key
+Zeke Virus,1,Matt Ryan,QB,Atl,QB,26.9,399.p.8780
+Zeke Virus,1,Odell Beckham Jr.,WR,Cle,WR,5.2,399.p.27540
+Zeke Virus,1,Cooper Kupp,WR,LAR,WR,8,399.p.30182
+Zeke Virus,1,Ezekiel Elliott,RB,Dal,RB,27.7,399.p.29238
+Zeke Virus,1,David Johnson,RB,Hou,RB,19.9,399.p.28474
+Zeke Virus,1,Evan Engram,TE,NYG,TE,2.9,399.p.30136
+Zeke Virus,1,Todd Gurley II,RB,Atl,W/R/T,13.7,399.p.28398
+Zeke Virus,1,Brandin Cooks,WR,Hou,W/R/T,4,399.p.27548
+Zeke Virus,1,Leonard Fournette,RB,TB,BN,2.9,399.p.30117
+Zeke Virus,1,Sterling Shepard,WR,NYG,BN,10.7,399.p.29274
+Zeke Virus,1,Kerryon Johnson,RB,Det,BN,1.4,399.p.31013
+Zeke Virus,1,Jared Goff,QB,LAR,BN,11.5,399.p.29235
+Zeke Virus,1,J.D. McKissic,RB,Was,BN,0.9,399.p.29650
+Zeke Virus,1,Jonnu Smith,TE,Ten,BN,13.6,399.p.30213
+Zeke Virus,1,Corey Davis,WR,Ten,BN,17.1,399.p.30118
+Zeke Virus,1,Harrison Butker,K,KC,K,10,399.p.30346
+Zeke Virus,1,Minnesota,DEF,Min,DEF,-4,399.p.100016
+Zeke Virus,1,Tennessee,DEF,Ten,BN,3,399.p.100010
+3HeadedATK,1,Tom Brady,QB,TB,QB,24.46,399.p.5228
+3HeadedATK,1,Julio Jones,WR,Atl,WR,24.7,399.p.24793
+3HeadedATK,1,Kenny Golladay,WR,Det,WR,0,399.p.30209
+3HeadedATK,1,Nick Chubb,RB,Cle,RB,5.6,399.p.31005
+3HeadedATK,1,James Conner,RB,Pit,RB,3.7,399.p.30218
+3HeadedATK,1,Darren Waller,TE,LV,TE,10.5,399.p.28592
+3HeadedATK,1,Jonathan Taylor,RB,Ind,W/R/T,14.9,399.p.32711
+3HeadedATK,1,JuJu Smith-Schuster,WR,Pit,W/R/T,24.9,399.p.30175
+3HeadedATK,1,Tyler Boyd,WR,Cin,BN,7.3,399.p.29288
+3HeadedATK,1,Marquise Brown,WR,Bal,BN,15.1,399.p.31857
+3HeadedATK,1,Zack Moss,RB,Buf,BN,11.7,399.p.32756
+3HeadedATK,1,Carson Wentz,QB,Phi,BN,17,399.p.29236
+3HeadedATK,1,Noah Fant,TE,Den,BN,19.1,399.p.31852
+3HeadedATK,1,Daniel Jones,QB,NYG,BN,21.36,399.p.31838
+3HeadedATK,1,James Robinson,RB,Jax,BN,10,399.p.33138
+3HeadedATK,1,Robbie Gould,K,SF,K,10,399.p.7520
+3HeadedATK,1,Denver,DEF,Den,DEF,4,399.p.100007
+3HeadedATK,1,Kansas City,DEF,KC,BN,7,399.p.100012
+Big Bucs No Whammies,1,Cam Newton,QB,NE,QB,25.7,399.p.24788
+Big Bucs No Whammies,1,Adam Thielen,WR,Min,WR,31,399.p.27277
+Big Bucs No Whammies,1,Mike Evans,WR,TB,WR,7.2,399.p.27535
+Big Bucs No Whammies,1,Derrick Henry,RB,Ten,RB,16.1,399.p.29279
+Big Bucs No Whammies,1,Marlon Mack,RB,Ind,RB,8.6,399.p.30256
+Big Bucs No Whammies,1,Rob Gronkowski,TE,TB,TE,3.1,399.p.24017
+Big Bucs No Whammies,1,Julian Edelman,WR,NE,W/R/T,13,399.p.9496
+Big Bucs No Whammies,1,Stefon Diggs,WR,Buf,W/R/T,16.6,399.p.28534
+Big Bucs No Whammies,1,Christian Kirk,WR,Ari,BN,1,399.p.31017
+Big Bucs No Whammies,1,Kyler Murray,QB,Ari,BN,28.3,399.p.31833
+Big Bucs No Whammies,1,Tevin Coleman,RB,SF,BN,3.4,399.p.28461
+Big Bucs No Whammies,1,Kyle Rudolph,TE,Min,BN,4.8,399.p.24830
+Big Bucs No Whammies,1,John Brown,WR,Buf,BN,19,399.p.27619
+Big Bucs No Whammies,1,Jerry Jeudy,WR,Den,BN,9.6,399.p.32685
+Big Bucs No Whammies,1,Teddy Bridgewater,QB,Car,BN,20.4,399.p.27560
+Big Bucs No Whammies,1,Eric Ebron,TE,Pit,BN,2.8,399.p.27538
+Big Bucs No Whammies,1,Ryan Succop,K,TB,K,5,399.p.9520
+Big Bucs No Whammies,1,Los Angeles,DEF,LAC,DEF,11,399.p.100024
+Birds Like I'm Julio,1,Patrick Mahomes,QB,KC,QB,23.44,399.p.30123
+Birds Like I'm Julio,1,Amari Cooper,WR,Dal,WR,18.1,399.p.28392
+Birds Like I'm Julio,1,Tyler Lockett,WR,Sea,WR,17.2,399.p.28457
+Birds Like I'm Julio,1,Saquon Barkley,RB,NYG,RB,12.6,399.p.30972
+Birds Like I'm Julio,1,Mark Ingram II,RB,Bal,RB,2.9,399.p.24815
+Birds Like I'm Julio,1,George Kittle,TE,SF,TE,9.3,399.p.30259
+Birds Like I'm Julio,1,A.J. Green,WR,Cin,W/R/T,10.1,399.p.24791
+Birds Like I'm Julio,1,DeVante Parker,WR,Mia,W/R/T,8.7,399.p.28402
+Birds Like I'm Julio,1,Jared Cook,TE,NO,BN,13,399.p.9353
+Birds Like I'm Julio,1,Phillip Lindsay,RB,Den,BN,4.5,399.p.31379
+Birds Like I'm Julio,1,Latavius Murray,RB,NO,BN,4.8,399.p.26804
+Birds Like I'm Julio,1,Mecole Hardman,WR,KC,BN,1.6,399.p.31888
+Birds Like I'm Julio,1,Jimmy Garoppolo,QB,SF,BN,21.26,399.p.27590
+Birds Like I'm Julio,1,Brandon Aiyuk,WR,SF,BN,0,399.p.32695
+Birds Like I'm Julio,1,Blake Jarwin,TE,Dal,BN,2.2,399.p.30784
+Birds Like I'm Julio,1,Boston Scott,RB,Phi,BN,7.4,399.p.31171
+Birds Like I'm Julio,1,Greg Zuerlein,K,Dal,K,5,399.p.25881
+Birds Like I'm Julio,1,Pittsburgh,DEF,Pit,DEF,8,399.p.100023
+DJeango,1,Matthew Stafford,QB,Det,QB,18.18,399.p.9265
+DJeango,1,Chris Godwin,WR,TB,WR,13.9,399.p.30197
+DJeango,1,DJ Moore,WR,Car,WR,9.4,399.p.30994
+DJeango,1,Christian McCaffrey,RB,Car,RB,28.4,399.p.30121
+DJeango,1,Raheem Mostert,RB,SF,RB,25.1,399.p.28654
+DJeango,1,Travis Kelce,TE,KC,TE,17,399.p.26686
+DJeango,1,Robert Woods,WR,LAR,W/R/T,17.9,399.p.26664
+DJeango,1,T.Y. Hilton,WR,Ind,W/R/T,9.3,399.p.25802
+DJeango,1,David Montgomery,RB,Chi,BN,8.4,399.p.31905
+DJeango,1,Antonio Gibson,RB,Was,BN,6.4,399.p.32736
+DJeango,1,Baker Mayfield,QB,Cle,BN,11.86,399.p.30971
+DJeango,1,Sony Michel,RB,NE,BN,9.7,399.p.31001
+DJeango,1,Jamison Crowder,WR,NYJ,BN,24.5,399.p.28493
+DJeango,1,Mike Gesicki,TE,Mia,BN,6,399.p.31012
+DJeango,1,DeSean Jackson,WR,Phi,BN,6.6,399.p.8826
+DJeango,1,Sammy Watkins,WR,KC,BN,21.5,399.p.27532
+DJeango,1,Matt Prater,K,Det,K,12,399.p.8565
+DJeango,1,Buffalo,DEF,Buf,DEF,8,399.p.100002
+Eli Man Penguin Boy,1,Drew Brees,QB,NO,QB,16.4,399.p.5479
+Eli Man Penguin Boy,1,Michael Thomas,WR,NO,WR,4.7,399.p.29281
+Eli Man Penguin Boy,1,Tyreek Hill,WR,KC,WR,15.6,399.p.29399
+Eli Man Penguin Boy,1,Aaron Jones,RB,GB,RB,17.6,399.p.30295
+Eli Man Penguin Boy,1,Chris Carson,RB,Sea,RB,24.6,399.p.30362
+Eli Man Penguin Boy,1,Zach Ertz,TE,Phi,TE,10.8,399.p.26658
+Eli Man Penguin Boy,1,Le'Veon Bell,RB,NYJ,W/R/T,6.6,399.p.26671
+Eli Man Penguin Boy,1,DJ Chark Jr.,WR,Jax,W/R/T,11.5,399.p.31031
+Eli Man Penguin Boy,1,Aaron Rodgers,QB,GB,BN,34.76,399.p.7200
+Eli Man Penguin Boy,1,D'Andre Swift,RB,Det,BN,11.3,399.p.32705
+Eli Man Penguin Boy,1,Jarvis Landry,WR,Cle,BN,11.1,399.p.27591
+Eli Man Penguin Boy,1,James White,RB,NE,BN,8.2,399.p.27658
+Eli Man Penguin Boy,1,Emmanuel Sanders,WR,NO,BN,10.5,399.p.24057
+Eli Man Penguin Boy,1,Deebo Samuel,WR,SF,BN,0,399.p.31868
+Eli Man Penguin Boy,1,Golden Tate,WR,NYG,BN,0,399.p.24035
+Eli Man Penguin Boy,1,Adrian Peterson,RB,Det,BN,14.4,399.p.8261
+Eli Man Penguin Boy,1,Zane Gonzalez,K,Ari,K,8,399.p.30337
+Eli Man Penguin Boy,1,Los Angeles,DEF,LAR,DEF,4,399.p.100014
+Obi 'Quon Kenobi,1,Russell Wilson,QB,Sea,QB,35.78,399.p.25785
+Obi 'Quon Kenobi,1,DeAndre Hopkins,WR,Ari,WR,29.1,399.p.26650
+Obi 'Quon Kenobi,1,DK Metcalf,WR,Sea,WR,19.5,399.p.31896
+Obi 'Quon Kenobi,1,Joe Mixon,RB,Cin,RB,6.1,399.p.30161
+Obi 'Quon Kenobi,1,Devin Singletary,RB,Buf,RB,10.3,399.p.31906
+Obi 'Quon Kenobi,1,Mark Andrews,TE,Bal,TE,22.8,399.p.31056
+Obi 'Quon Kenobi,1,Marvin Jones Jr.,WR,Det,W/R/T,9.5,399.p.25876
+Obi 'Quon Kenobi,1,Tarik Cohen,RB,Chi,W/R/T,6.7,399.p.30232
+Obi 'Quon Kenobi,1,J.K. Dobbins,RB,Bal,BN,14.2,399.p.32725
+Obi 'Quon Kenobi,1,CeeDee Lamb,WR,Dal,BN,10.9,399.p.32687
+Obi 'Quon Kenobi,1,Joe Burrow,QB,Cin,BN,17.32,399.p.32671
+Obi 'Quon Kenobi,1,T.J. Hockenson,TE,Det,BN,16.6,399.p.31840
+Obi 'Quon Kenobi,1,Allen Lazard,WR,GB,BN,18.2,399.p.31268
+Obi 'Quon Kenobi,1,LeSean McCoy,RB,TB,BN,1.2,399.p.9317
+Obi 'Quon Kenobi,1,Wil Lutz,K,NO,K,10,399.p.29754
+Obi 'Quon Kenobi,1,Dan Bailey,K,Min,BN,4,399.p.25427
+Obi 'Quon Kenobi,1,Indianapolis,DEF,Ind,DEF,4,399.p.100011
+Obi 'Quon Kenobi,1,San Francisco,DEF,SF,BN,4,399.p.100025
+FreshPrinceOfHelaire,1,Lamar Jackson,QB,Bal,QB,30.5,399.p.31002
+FreshPrinceOfHelaire,1,Keenan Allen,WR,LAC,WR,7.7,399.p.26699
+FreshPrinceOfHelaire,1,Terry McLaurin,WR,Was,WR,11.1,399.p.31908
+FreshPrinceOfHelaire,1,Clyde Edwards-Helaire,RB,KC,RB,19.8,399.p.32702
+FreshPrinceOfHelaire,1,Austin Ekeler,RB,LAC,RB,9.7,399.p.30423
+FreshPrinceOfHelaire,1,Austin Hooper,TE,Cle,TE,3.5,399.p.29315
+FreshPrinceOfHelaire,1,Michael Gallup,WR,Dal,W/R/T,8,399.p.31051
+FreshPrinceOfHelaire,1,Cole Beasley,WR,Buf,W/R/T,9.8,399.p.26060
+FreshPrinceOfHelaire,1,Ronald Jones II,RB,TB,BN,10.2,399.p.31008
+FreshPrinceOfHelaire,1,Miles Sanders,RB,Phi,BN,0,399.p.31885
+FreshPrinceOfHelaire,1,Courtland Sutton,WR,Den,BN,0,399.p.31010
+FreshPrinceOfHelaire,1,Tony Pollard,RB,Dal,BN,5.2,399.p.31960
+FreshPrinceOfHelaire,1,Ryan Tannehill,QB,Ten,BN,21.36,399.p.25718
+FreshPrinceOfHelaire,1,Damien Harris,RB,NE,BN,0,399.p.31919
+FreshPrinceOfHelaire,1,Alexander Mattison,RB,Min,BN,12,399.p.31934
+FreshPrinceOfHelaire,1,Jalen Reagor,WR,Phi,BN,6.5,399.p.32691
+FreshPrinceOfHelaire,1,Younghoe Koo,K,Atl,K,9,399.p.30426
+FreshPrinceOfHelaire,1,New England,DEF,NE,DEF,11,399.p.100017
+Khari's Blasingame,1,Deshaun Watson,QB,Hou,QB,22.82,399.p.30125
+Khari's Blasingame,1,A.J. Brown,WR,Ten,WR,8.9,399.p.31883
+Khari's Blasingame,1,Calvin Ridley,WR,Atl,WR,33.9,399.p.30996
+Khari's Blasingame,1,Dalvin Cook,RB,Min,RB,21.8,399.p.30154
+Khari's Blasingame,1,Josh Jacobs,RB,LV,RB,35.9,399.p.31856
+Khari's Blasingame,1,Hayden Hurst,TE,Atl,TE,6.8,399.p.30995
+Khari's Blasingame,1,Will Fuller V,WR,Hou,W/R/T,19.2,399.p.29255
+Khari's Blasingame,1,Henry Ruggs III,WR,LV,W/R/T,9.6,399.p.32682
+Khari's Blasingame,1,Darius Slayton,WR,NYG,BN,28.2,399.p.32003
+Khari's Blasingame,1,Cam Akers,RB,LAR,BN,5.3,399.p.32722
+Khari's Blasingame,1,Dak Prescott,QB,Dal,BN,18.64,399.p.29369
+Khari's Blasingame,1,Matt Breida,RB,Mia,BN,2.2,399.p.30552
+Khari's Blasingame,1,Dallas Goedert,TE,Phi,BN,24.1,399.p.31019
+Khari's Blasingame,1,Justin Jefferson,WR,Min,BN,4.6,399.p.32692
+Khari's Blasingame,1,Parris Campbell,WR,Ind,BN,14,399.p.31891
+Khari's Blasingame,1,Malcolm Brown,RB,LAR,BN,26,399.p.28990
+Khari's Blasingame,1,Jake Elliott,K,Phi,K,5,399.p.30266
+Khari's Blasingame,1,New Orleans,DEF,NO,DEF,17,399.p.100018
+Quaranteam,1,Josh Allen,QB,Buf,QB,30.18,399.p.30977
+Quaranteam,1,Davante Adams,WR,GB,WR,41.6,399.p.27581
+Quaranteam,1,Allen Robinson II,WR,Chi,WR,12.3,399.p.27589
+Quaranteam,1,Alvin Kamara,RB,NO,RB,23.7,399.p.30180
+Quaranteam,1,Kenyan Drake,RB,Ari,RB,14.5,399.p.29307
+Quaranteam,1,Tyler Higbee,TE,LAR,TE,7,399.p.29344
+Quaranteam,1,Melvin Gordon III,RB,Den,W/R/T,15.6,399.p.28403
+Quaranteam,1,Diontae Johnson,WR,Pit,W/R/T,9.7,399.p.31898
+Quaranteam,1,Hunter Henry,TE,LAC,BN,12.3,399.p.29269
+Quaranteam,1,Kareem Hunt,RB,Cle,BN,12.1,399.p.30199
+Quaranteam,1,Jordan Howard,RB,Mia,BN,6.7,399.p.29384
+Quaranteam,1,Ben Roethlisberger,QB,Pit,BN,25.06,399.p.6770
+Quaranteam,1,Anthony Miller,WR,Chi,BN,17.6,399.p.31021
+Quaranteam,1,N'Keal Harry,WR,NE,BN,6.9,399.p.31864
+Quaranteam,1,Bryan Edwards,WR,LV,BN,1.9,399.p.32751
+Quaranteam,1,Justin Tucker,K,Bal,K,9,399.p.26534
+Quaranteam,1,Baltimore,DEF,Bal,DEF,15,399.p.100033
+Quaranteam,1,Chicago,DEF,Chi,BN,3,399.p.100003

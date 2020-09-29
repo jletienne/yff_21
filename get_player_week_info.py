@@ -5,8 +5,8 @@ import json
 from json import dumps
 import datetime
 import time
-
-week_num = 1
+import yaml
+import os
 
 league_id = yaml.safe_load(open('config.yaml'))['league_id']
 
@@ -168,16 +168,49 @@ def get_team_week_info(league=None, team_num=None, week=None):
     team_week_info_df.columns = header
     return team_week_info_df
 
-week_start = 1
+week_start = 3
 week_end = week_start + 1
 
 team_ids = get_team_ids(league_id)
 
 final = pd.DataFrame()
-for week in range(week_start, week_end + 1):
+for week in range(week_start, week_end):
     for team in team_ids:
         a = get_team_week_info(league_id, str(team), week)
         final = final.append(a, ignore_index=True)
 
-final.to_csv("rawdata/2019_fantasy_player_stats_by_week_{}_on.csv".format(week_start, index=False))
-#a
+final_stats=final[['team_name', 'week', 'player_name', 'player_position', 'player_team', 'lineup_position', 'fantasy_points', 'player_key']]
+final_injury_report=final[['team_name', 'week', 'player_name', 'player_position', 'player_team', 'lineup_position', 'player_status', 'player_injury', 'player_key']]
+
+final_injury_report['date'] = pd.Timestamp('today').strftime("%Y-%m-%d")
+
+final_stats.to_csv("rawdata/fantasy_player_stats_by_week_{}_on.csv".format(week_start), index=False)
+final_injury_report.to_csv("rawdata/fantasy_injury_report.csv", index=False, header=False, mode='a')
+
+a=pd.read_csv('rawdata/fantasy_injury_report.csv')
+a.loc[a['player_status'] == 'Injured Reserve', 'injury_value'] = 5
+a.loc[a['player_status'] == 'Out', 'injury_value'] = 4
+a.loc[a['player_status'] == 'Doubtful', 'injury_value'] = 3
+a.loc[a['player_status'] == 'Questionable', 'injury_value'] = 2
+a = a.sort_values(['player_key','week', 'injury_value'])
+b = a.drop_duplicates(subset=['player_key','week'], keep='last', inplace=False)
+
+b.to_csv('rawdata/final_injury_data.csv', index=False)
+
+file_list = []
+for root, dirs, files in os.walk("rawdata"):
+    if root == 'rawdata':
+        for filename in files:
+            file_list.append(filename)
+
+player_files = [file for file in file_list if 'fantasy_player_stats_by_week_' in file]
+
+player_stats = pd.DataFrame()
+
+for file in player_files:
+    a = pd.read_csv('rawdata/'+file)
+    player_stats = player_stats.append(a)
+
+player_stats
+
+player_stats.to_csv("rawdata/fantasy_player_stats.csv", index=False)

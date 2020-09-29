@@ -4,8 +4,9 @@ import logging
 import json
 from json import dumps
 import datetime
+import yaml
+import os
 
-week_num = 1
 league_id = yaml.safe_load(open('config.yaml'))['league_id']
 
 class Yahoo_Api():
@@ -35,11 +36,13 @@ yahoo_api = Yahoo_Api(yahoo_consumer_key, yahoo_consumer_secret, yahoo_access_ke
 yahoo_api._login()
 
 
+week_num = 1
+
 
 weekly_team_stats = []
 
 opponent = {'0': '1', '1': '0'}
-for week in range(1, week_num+1):
+for week in range(week_num, week_num+1):
     url = 'https://fantasysports.yahooapis.com/fantasy/v2/league/{}/scoreboard;week={}'.format(league_id , week)
     response = oauth.session.get(url, params={'format': 'json'})
     r = response.json()
@@ -61,4 +64,24 @@ for week in range(1, week_num+1):
         except:
             pass
 
-pd.DataFrame(weekly_team_stats).to_csv("rawdata/2019_fantasy_stats.csv", index=None)
+pd.DataFrame(weekly_team_stats).to_csv("rawdata/fantasy_team_stats_by_week_{}.csv".format(week_num), index=None)
+
+
+file_list = []
+for root, dirs, files in os.walk("rawdata"):
+    if root == 'rawdata':
+        for filename in files:
+            file_list.append(filename)
+
+
+
+team_files = [file for file in file_list if 'fantasy_team_stats_by_week_' in file]
+
+team_stats = pd.DataFrame()
+
+for file in team_files:
+    a = pd.read_csv('rawdata/'+file)
+    team_stats = team_stats.append(a)
+
+
+team_stats.to_csv("rawdata/fantasy_team_stats.csv", index=False)
