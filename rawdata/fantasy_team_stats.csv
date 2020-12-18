@@ -1,4 +1,114 @@
 week,manager,team_name,points,points_against,projected_points
+14,Adam,Zeke Virus,129.72,164.36,139.08
+14,Khari,Khari's Blasingame,164.36,129.72,147.87
+14,Christopher,3HeadedATK,149.5,150.72,125.24
+14,sox fan,Quaranteam,150.72,149.5,151.67
+14,Travis,Big Bucs No Whammies,140.16,137.34,150.22
+14,roy s,Obi 'Quon Kenobi,137.34,140.16,142.43
+14,Jake,Birds Like I'm Julio,114.12,144.28,128.72
+14,Andy,Eli Man Penguin Boy,144.28,114.12,150.95
+14,Jean,DJeango,143.44,126.08,133.25
+14,JL,FreshPrinceOfHelaire,126.08,143.44,137.43
+13,Adam,Zeke Virus,121.76,130.76,139.37
+13,JL,FreshPrinceOfHelaire,130.76,121.76,133.84
+13,Christopher,3HeadedATK,177.7,160.74,139.58
+13,Andy,Eli Man Penguin Boy,160.74,177.7,148.22
+13,Travis,Big Bucs No Whammies,111.72,149.9,139.91
+13,sox fan,Quaranteam,149.9,111.72,143.51
+13,Jake,Birds Like I'm Julio,136.82,113.34,130.54
+13,Khari,Khari's Blasingame,113.34,136.82,147.44
+13,Jean,DJeango,155.84,131.22,139.93
+13,roy s,Obi 'Quon Kenobi,131.22,155.84,140.55
+12,Adam,Zeke Virus,110.84,124.5,147.07
+12,Travis,Big Bucs No Whammies,124.5,110.84,139.13
+12,Christopher,3HeadedATK,99.0,154.6,96.65
+12,Jean,DJeango,154.6,99.0,142.36
+12,Jake,Birds Like I'm Julio,165.38,125.48,131.94
+12,sox fan,Quaranteam,125.48,165.38,155.11
+12,Andy,Eli Man Penguin Boy,175.64,150.92,147.01
+12,Khari,Khari's Blasingame,150.92,175.64,153.39
+12,roy s,Obi 'Quon Kenobi,105.0,108.76,143.2
+12,JL,FreshPrinceOfHelaire,108.76,105.0,135.35
+10,Adam,Zeke Virus,110.18,95.68,134.6
+10,Jake,Birds Like I'm Julio,95.68,110.18,120.11
+10,Christopher,3HeadedATK,122.64,163.9,136.02
+10,Travis,Big Bucs No Whammies,163.9,122.64,145.11
+10,Jean,DJeango,132.84,158.46,120.76
+10,sox fan,Quaranteam,158.46,132.84,154.74
+10,Andy,Eli Man Penguin Boy,125.9,118.36,140.51
+10,JL,FreshPrinceOfHelaire,118.36,125.9,127.23
+10,roy s,Obi 'Quon Kenobi,91.32,100.62,139.99
+10,Khari,Khari's Blasingame,100.62,91.32,144.01
+11,Adam,Zeke Virus,151.94,176.26,140.1
+11,Jean,DJeango,176.26,151.94,141.31
+11,Christopher,3HeadedATK,109.54,155.06,130.29
+11,Khari,Khari's Blasingame,155.06,109.54,148.09
+11,Travis,Big Bucs No Whammies,144.36,136.74,141.93
+11,JL,FreshPrinceOfHelaire,136.74,144.36,145.5
+11,Jake,Birds Like I'm Julio,125.52,128.28,120.41
+11,roy s,Obi 'Quon Kenobi,128.28,125.52,147.03
+11,Andy,Eli Man Penguin Boy,149.34,148.18,140.32
+11,sox fan,Quaranteam,148.18,149.34,147.13
+8,Adam,Zeke Virus,139.12,187.44,143.43
+8,roy s,Obi 'Quon Kenobi,187.44,139.12,138.93
+8,Christopher,3HeadedATK,114.96,127.14,147.06
+8,Jake,Birds Like I'm Julio,127.14,114.96,130.25
+8,Travis,Big Bucs No Whammies,137.46,110.74,140.19
+8,Jean,DJeango,110.74,137.46,125.43
+8,Andy,Eli Man Penguin Boy,103.14,107.22,136.16
+8,JL,FreshPrinceOfHelaire,107.22,103.14,125.6
+8,Khari,Khari's Blasingame,134.98,135.86,146.43
+8,sox fan,Quaranteam,135.86,134.98,155.31
+9,Adam,Zeke Virus,110.64,158.4,139.3
+9,Andy,Eli Man Penguin Boy,158.4,110.64,127.47
+9,Christopher,3HeadedATK,104.36,144.5,139.92
+9,Jean,DJeango,144.5,104.36,145.29
+9,Travis,Big Bucs No Whammies,135.22,109.88,138.51
+9,Jake,Birds Like I'm Julio,109.88,135.22,133.65
+9,roy s,Obi 'Quon Kenobi,114.2,161.1,143.52
+9,sox fan,Quaranteam,161.1,114.2,151.65
+9,JL,FreshPrinceOfHelaire,124.8,167.94,135.15
+9,Khari,Khari's Blasingame,167.94,124.8,146.98
+7,Adam,Zeke Virus,159.08,153.36,140.89
+7,Khari,Khari's Blasingame,153.36,159.08,140.69
+7,Christopher,3HeadedATK,207.8,121.32,141.41
+7,Andy,Eli Man Penguin Boy,121.32,207.8,131.93
+7,Travis,Big Bucs No Whammies,136.8,149.12,134.37
+7,roy s,Obi 'Quon Kenobi,149.12,136.8,147.03
+7,Jake,Birds Like I'm Julio,123.5,178.38,127.29
+7,sox fan,Quaranteam,178.38,123.5,159.51
+7,Jean,DJeango,137.0,114.7,141.51
+7,JL,FreshPrinceOfHelaire,114.7,137.0,133.14
+6,Adam,Zeke Virus,100.02,168.96,143.11
+6,JL,FreshPrinceOfHelaire,168.96,100.02,144.2
+6,Christopher,3HeadedATK,125.44,158.7,131.4
+6,Jake,Birds Like I'm Julio,158.7,125.44,142.1
+6,Travis,Big Bucs No Whammies,120.52,117.8,141.88
+6,Andy,Eli Man Penguin Boy,117.8,120.52,134.9
+6,Jean,DJeango,113.72,102.44,153.0
+6,roy s,Obi 'Quon Kenobi,102.44,113.72,140.57
+6,Khari,Khari's Blasingame,153.8,119.58,126.22
+6,sox fan,Quaranteam,119.58,153.8,140.18
+4,Adam,Zeke Virus,140.3,154.42,146.85
+4,sox fan,Quaranteam,154.42,140.3,158.39
+4,Christopher,3HeadedATK,129.96,120.12,151.29
+4,JL,FreshPrinceOfHelaire,120.12,129.96,154.18
+4,Travis,Big Bucs No Whammies,133.22,144.7,132.97
+4,Khari,Khari's Blasingame,144.7,133.22,143.98
+4,Jake,Birds Like I'm Julio,159.24,179.1,146.13
+4,roy s,Obi 'Quon Kenobi,179.1,159.24,155.18
+4,Jean,DJeango,105.84,185.86,138.6
+4,Andy,Eli Man Penguin Boy,185.86,105.84,152.52
+5,Adam,Zeke Virus,140.36,91.62,142.64
+5,Christopher,3HeadedATK,91.62,140.36,116.36
+5,Travis,Big Bucs No Whammies,147.9,142.32,124.98
+5,sox fan,Quaranteam,142.32,147.9,157.08
+5,Jake,Birds Like I'm Julio,119.8,106.3,147.14
+5,JL,FreshPrinceOfHelaire,106.3,119.8,153.94
+5,Jean,DJeango,156.02,151.44,140.94
+5,Khari,Khari's Blasingame,151.44,156.02,151.18
+5,Andy,Eli Man Penguin Boy,153.4,169.18,142.68
+5,roy s,Obi 'Quon Kenobi,169.18,153.4,146.29
 1,Adam,Zeke Virus,114.3,153.78,142.71
 1,roy s,Obi 'Quon Kenobi,153.78,114.3,147.04
 1,Christopher,3HeadedATK,122.76,180.92,131.16

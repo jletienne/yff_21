@@ -9,6 +9,7 @@ import yaml
 import os
 
 league_id = yaml.safe_load(open('config.yaml'))['league_id']
+week_start = 14
 
 class Yahoo_Api():
     def __init__(self,
@@ -168,7 +169,6 @@ def get_team_week_info(league=None, team_num=None, week=None):
     team_week_info_df.columns = header
     return team_week_info_df
 
-week_start = 3
 week_end = week_start + 1
 
 team_ids = get_team_ids(league_id)
@@ -176,6 +176,7 @@ team_ids = get_team_ids(league_id)
 final = pd.DataFrame()
 for week in range(week_start, week_end):
     for team in team_ids:
+        print('running team {}'.format(team))
         a = get_team_week_info(league_id, str(team), week)
         final = final.append(a, ignore_index=True)
 
@@ -188,6 +189,15 @@ final_stats.to_csv("rawdata/fantasy_player_stats_by_week_{}_on.csv".format(week_
 final_injury_report.to_csv("rawdata/fantasy_injury_report.csv", index=False, header=False, mode='a')
 
 a=pd.read_csv('rawdata/fantasy_injury_report.csv')
+
+a.loc[a['player_status'] == 'Reserve: COVID-19', 'player_injury'] = 'COVID-19'
+a.loc[a['player_status'] == 'Reserve: COVID-19', 'player_status'] = 'Out'
+
+a.loc[a['player_status'] == 'Injured Reserve - Designated for Return', 'player_injury'] = float('nan')
+a.loc[a['player_status'] == 'Injured Reserve - Designated for Return', 'player_status'] = float('nan')
+
+a=a.dropna(subset=['player_status'])
+
 a.loc[a['player_status'] == 'Injured Reserve', 'injury_value'] = 5
 a.loc[a['player_status'] == 'Out', 'injury_value'] = 4
 a.loc[a['player_status'] == 'Doubtful', 'injury_value'] = 3
@@ -214,3 +224,4 @@ for file in player_files:
 player_stats
 
 player_stats.to_csv("rawdata/fantasy_player_stats.csv", index=False)
+print('done')

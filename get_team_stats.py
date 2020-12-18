@@ -7,6 +7,8 @@ import datetime
 import yaml
 import os
 
+week_num = 14
+
 league_id = yaml.safe_load(open('config.yaml'))['league_id']
 
 class Yahoo_Api():
@@ -36,7 +38,7 @@ yahoo_api = Yahoo_Api(yahoo_consumer_key, yahoo_consumer_secret, yahoo_access_ke
 yahoo_api._login()
 
 
-week_num = 1
+
 
 
 weekly_team_stats = []
@@ -85,3 +87,4 @@ for file in team_files:
 
 
 team_stats.to_csv("rawdata/fantasy_team_stats.csv", index=False)
+print('done')
