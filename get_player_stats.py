@@ -9,7 +9,7 @@ import yaml
 import os
 
 league_id = yaml.safe_load(open('config.yaml'))['league_id']
-week_start = 14
+week_start = 16
 
 class Yahoo_Api():
     def __init__(self,

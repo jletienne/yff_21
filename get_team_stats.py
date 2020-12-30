@@ -7,7 +7,7 @@ import datetime
 import yaml
 import os
 
-week_num = 14
+week_num = 16
 
 league_id = yaml.safe_load(open('config.yaml'))['league_id']
 

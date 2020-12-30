@@ -1,4 +1,12 @@
 week,manager,team_name,points,points_against,projected_points
+15,Christopher,3HeadedATK,112.24,163.72,121.28
+15,Khari,Khari's Blasingame,163.72,112.24,149.22
+15,Travis,Big Bucs No Whammies,175.04,143.72,150.4
+15,Andy,Eli Man Penguin Boy,143.72,175.04,145.64
+15,Jake,Birds Like I'm Julio,105.66,149.54,116.94
+15,roy s,Obi 'Quon Kenobi,149.54,105.66,147.43
+15,Jean,DJeango,146.32,141.76,137.35
+15,sox fan,Quaranteam,141.76,146.32,156.97
 14,Adam,Zeke Virus,129.72,164.36,139.08
 14,Khari,Khari's Blasingame,164.36,129.72,147.87
 14,Christopher,3HeadedATK,149.5,150.72,125.24
@@ -9,6 +17,14 @@ week,manager,team_name,points,points_against,projected_points
 14,Andy,Eli Man Penguin Boy,144.28,114.12,150.95
 14,Jean,DJeango,143.44,126.08,133.25
 14,JL,FreshPrinceOfHelaire,126.08,143.44,137.43
+16,Christopher,3HeadedATK,125.44,79.62,97.89
+16,Jake,Birds Like I'm Julio,79.62,125.44,100.7
+16,Travis,Big Bucs No Whammies,177.18,160.52,146.56
+16,Jean,DJeango,160.52,177.18,145.03
+16,Andy,Eli Man Penguin Boy,120.74,223.9,146.77
+16,sox fan,Quaranteam,223.9,120.74,163.46
+16,roy s,Obi 'Quon Kenobi,109.7,136.26,143.93
+16,Khari,Khari's Blasingame,136.26,109.7,149.47
 13,Adam,Zeke Virus,121.76,130.76,139.37
 13,JL,FreshPrinceOfHelaire,130.76,121.76,133.84
 13,Christopher,3HeadedATK,177.7,160.74,139.58
